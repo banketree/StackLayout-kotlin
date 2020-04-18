@@ -1,0 +1,3 @@
+rootProject.name='LayoutManagerGroup-kotlin'
+include ':app'
+include ':layout-group'
